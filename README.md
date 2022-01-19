@@ -1,4 +1,4 @@
-# Spring3Hibernate - A OpsTree Sample Maven based Java Application
+# Spring3Hibernate- A OpsTree Sample Maven based Java Application
 
 The main goal of this awesome Java Webapp is to encourage people to dive deep in Java Application Architecture and how we can make delivery pipeline faster, easier and much reliable using **Continous Integration**.
 
@@ -27,7 +27,7 @@ upload.dir=c:/uploads
 
 **Note:- The location of file is [src/main/resources/database.properties](src/main/resources/database.properties)**
 
-## How to Run
+### How to Run
 
 #### Manual Setup
 
